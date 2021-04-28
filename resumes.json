@@ -1,4 +1,4 @@
-
+[
 {
   "name":"farty",
   // "birthdate" json is too stupid for dates so we need to figure this one out
@@ -11,11 +11,11 @@
   "wantsAliyah": false,
   "outOfTown": true,
   "short": false,
-  // btw, out of town means also the not into cool crowd ppl, more of an idealogy that actually where they live
-}
+  // btw, out of town means also the not into cool crowd ppl, more of an idealogy that actually where they live 
+},
 {
   "name":"pukey",
-  // "birthdate" json is too stupid for dates so we need to figure this one out
+  // "birthdate" json is too stupid for dates so we need to figure this one out.
   "age": 27,
   "gender": "female",
   "iskohen": false,
@@ -26,3 +26,4 @@
   "outOf Town": true,
   "short": false,
 }
+]
