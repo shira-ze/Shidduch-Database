@@ -1,0 +1,28 @@
+
+{
+  "name":"farty",
+  // "birthdate" json is too stupid for dates so we need to figure this one out
+  "age": 32,
+  "gender": "male",
+  "iskohen": false,
+  "isCollege": true,
+  "hashkafa": "modox",
+  "isLearner": true,
+  "wantsAliyah": false,
+  "outOfTown": true,
+  "short": false,
+  // btw, out of town means also the not into cool crowd ppl, more of an idealogy that actually where they live
+}
+{
+  "name":"pukey",
+  // "birthdate" json is too stupid for dates so we need to figure this one out
+  "age": 27,
+  "gender": "female",
+  "iskohen": false,
+  "isCollege": false,
+  "hashkafa": "yeshivish",
+  "isLearner": true,
+  "wantsAliyah": false,
+  "outOf Town": true,
+  "short": false,
+}
