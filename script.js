@@ -2,6 +2,9 @@
 src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"
 
 console.log("hello world")
+
+// for gender button:
+
 /* When the user clicks on the button,
 toggle between hiding and showing the dropdown content */
 function myFunction() {
@@ -21,6 +24,29 @@ window.onclick = function(event) {
     }
   }
 }
+
+// for college button:
+
+/* When the user clicks on the button,
+toggle between hiding and showing the dropdown content */
+function myFunction2() {
+  document.getElementById("myDropdown2").classList.toggle("show2");
+}
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn2')) {
+    var dropdowns = document.getElementsByClassName("dropdown-content2");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show2')) {
+        openDropdown.classList.remove('show2');
+      }
+    }
+  }
+}
+
 
 
 //here is the json file all typed out and in a variable. eventually I want to get this into something where instead of the vaeriable being equal to the json objects typed out in their entirety, there will be some sort of link to set the variable equal to whateveris in the .json file
