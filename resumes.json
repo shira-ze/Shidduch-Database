@@ -11,6 +11,7 @@
   "wantsAliyah": false,
   "outOfTown": true,
   "short": false,
+  "divorced": true,
   // btw, out of town means also the not into cool crowd ppl, more of an idealogy that actually where they live 
 },
 {
@@ -25,5 +26,166 @@
   "wantsAliyah": false,
   "outOf Town": true,
   "short": false,
-}
+  "divorced": true,
+},
+// Link to Google Drive with a compilation of all the resumes in full: https://drive.google.com/file/d/1QnLl_vAdRU5qVT4n620XQYOin1WGNGWr/view?usp=sharing
+{
+  "name":"Baila Wasserman (Baruch)",
+  // "birthdate" json is too stupid for dates so we need to figure this one out.
+  "age": 38,
+  "gender": "female",
+  "iskohen": false,
+  "isCollege": true,
+  "hashkafa": "modox machmir",
+  "isLearner": false,
+  "wantsAliyah": false,
+  "outOf Town": false,
+  "short": true,
+  "divorced": true, 
+  "link":"https://docs.google.com/document/d/1eYYJmCFClXVDsmQ7baovuV_fcFRv8k5IkLrg5svgn8s/edit?usp=sharing ",
+  
+},
+{
+  "name":"Mushky Fishbein",
+  // "birthdate" json is too stupid for dates so we need to figure this one out.
+  "age": 21,
+  "gender": "female",
+  "iskohen": false,
+  "isCollege": false,
+  "hashkafa": "yeshivish",
+  "isLearner": false,
+  "wantsAliyah": false,
+  "outOf Town": false,
+  "short": false,
+  "divorced": false,
+  "link": "https://docs.google.com/document/d/1gCYU7Whg-ltwYYc95ssxfnKqPzCX6BELfF8puuaoUZ0/edit?usp=sharing",
+},
+{
+  "name":"Avigail Klein (Last)",
+  // "birthdate" json is too stupid for dates so we need to figure this one out.
+  "age": 34,
+  "gender": "female",
+  "iskohen": false,
+  "isCollege": false,
+  "hashkafa": "yeshivish",
+  "isLearner": false,
+  "wantsAliyah": false,
+  "outOf Town": true,
+  "short": false,
+  "divorced": true,
+  "link": "https://drive.google.com/file/d/1gqPnqypTjCJy5kAAK_qPeTNTzhM-7FmA/view?usp=sharing"
+},
+{
+  "name":"Deborah Erlanger (Weisrose)",
+  // "birthdate" json is too stupid for dates so we need to figure this one out.
+  "age": 38,
+  "gender": "female",
+  "iskohen": false,
+  "isCollege": true,
+  "hashkafa": "modox machmir",
+  "isLearner": false,
+  "wantsAliyah": true,
+  "outOf Town": true,
+  "short": true,
+  "divorced": true,
+  "link": "https://docs.google.com/document/d/1g03auXfdH-fZ6vdle6vdV_QEiaW35eg3D2I9G3goGMM/edit?usp=sharing"
+},{
+  "name":"Alison Lustbader",
+  // "birthdate" json is too stupid for dates so we need to figure this one out.
+  "age": 35,
+  "gender": "female",
+  "iskohen": false,
+  "isCollege": true,
+  "hashkafa": "modox machmir",
+  "isLearner": false,
+  "wantsAliyah": false,
+  "outOf Town": false,
+  "short": false,
+  "divorced": false,
+  "link": "https://drive.google.com/file/d/1hLyPLCIijOqNL5Ii_7k3nxRy7A6IUIRZ/view?usp=sharing" 
+},{
+  "name":"Devorah Kurtz",
+  // "birthdate" json is too stupid for dates so we need to figure this one out.
+  "age": 34,
+  "gender": "female",
+  "iskohen": false,
+  "isCollege": true,
+  "hashkafa": "modox machmir",
+  "isLearner": false,
+  "wantsAliyah": false,
+  "outOf Town": true,
+  "short": false,
+  "divorced": false,
+  "link": "https://drive.google.com/file/d/1ut6M4y7tKLxNbKkCvD-vxfFwxipi15DU/view?usp=sharing"
+},{
+  "name":"Evan Harris",
+  // "birthdate" json is too stupid for dates so we need to figure this one out.
+  "age": 23,
+  "gender": "male",
+  "iskohen": false,
+  "isCollege": true,
+  "hashkafa": "modox",
+  "isLearner": false,
+  "wantsAliyah": true,
+  "outOf Town": false,
+  "short": false,
+  "divorced": false,
+  "link": "https://drive.google.com/file/d/1Hq5PdE38ATAwtR8aytuApNSabAIOYvWV/view?usp=sharing"
+},{
+  "name":"Talia Berlin",
+  // "birthdate" json is too stupid for dates so we need to figure this one out.
+  "age": 29,
+  "gender": "female",
+  "iskohen": false,
+  "isCollege": true,
+  "hashkafa": "modox machmir",
+  "isLearner": false,
+  "wantsAliyah": false,
+  "outOf Town": false,
+  "short": true,
+  "divorced": false,
+  "link": "https://drive.google.com/file/d/1s2_65a9I6_FYlUKw4AlbmqXy1zfe6iEs/view?usp=sharing"
+},{
+  "name":"Eitai Tabari",
+  // "birthdate" json is too stupid for dates so we need to figure this one out.
+  "age": 43,
+  "gender": "male",
+  "iskohen": false,
+  "isCollege": true,
+  "hashkafa": "modox",
+  "isLearner": false,
+  "wantsAliyah": false,
+  "outOf Town": false,
+  "short": false,
+  "divorced": false,
+  "link": "https://drive.google.com/file/d/12rzp2InCZMiBggjOtm7GZxMuTiFqXxOI/view?usp=sharing"
+},{
+  "name":"Dini Grunewald",
+  // "birthdate" json is too stupid for dates so we need to figure this one out.
+  "age": 42,
+  "gender": "female",
+  "iskohen": false,
+  "isCollege": true,
+  "hashkafa": "modox machmir",
+  "isLearner": false,
+  "wantsAliyah": false,
+  "outOf Town": false,
+  "short": true,
+  "divorced": true,
+  "link": "https://drive.google.com/file/d/1VZYGAr1OezMoPS668FltlnWb0YoJ4P3w/view?usp=sharing"
+},{
+  "name":"Jason Goldsmith",
+  // "birthdate" json is too stupid for dates so we need to figure this one out.
+  "age": 30,
+  "gender": "male",
+  "iskohen": false,
+  "isCollege": true,
+  "hashkafa": "modox machmir",
+  "isLearner": false,
+  "wantsAliyah": false,
+  "outOf Town": true,
+  "short": false,
+  "divorced": false,
+  "link": "https://drive.google.com/file/d/1y-Puz-WzCRtyzX7ZUxbPFof4luVoVrjO/view?usp=sharing",
+},
 ]
